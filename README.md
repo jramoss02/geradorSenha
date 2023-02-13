@@ -1,6 +1,6 @@
 # Gerador de senhas
 
-Projeto construido com HTML, CSS e JavaScript, onde o usuario escolhe o tamanho desejado para sua senha e com isso, ela sera gerada e disponivel para cópia e uso.
+Projeto construido com HTML, CSS e JavaScript, onde o usuario escolhe o tamanho desejado para sua senha e com isso, ela sera gerada e disponibilizada para cópia e uso.
 
 ### 📋 Pré-requisitos
 
